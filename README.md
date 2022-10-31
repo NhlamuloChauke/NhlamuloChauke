@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NhlamuloChauke
-- 👀 I’m interested in Software Engeering, Data Integration and Data Engineering.
+- 👀 I’m interested in Software Engineering, Data Integration and Data Engineering.
 - 📫 I can be reached here: hlanulani@gmail.com
 
 <!---
